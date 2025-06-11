@@ -1,6 +1,7 @@
 # Overview
 - Movie-Biz app is an app which connects Movie distributors and retail investors(Who are again sub distributors of movies).
 - A movie distributor acquires the rights to screen a film across a group of theatres and creates deals for each show in theatres.
+- A deal is a combination of location, theatre, movie, showdate, showtime, deal price, actual price
 - Once the show completes theatres share the number of tickets sold.
 - Based on the sale of tickets profit/loss is returned back to investors.
 -  Payments are made by retail investors via the in-app PhonePe integration.
