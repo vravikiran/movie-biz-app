@@ -26,3 +26,20 @@
 **Retail Investors can:**
 - Search for available deals by location,date, movie, or theatre.
 - Purchase selected deals directly through the app.
+
+**Technologies Used:**
+- Java
+- Spring Boot
+- MySQL
+- Twilio - SMS API
+- Maven
+- Spring Data JPA
+- Redis (Global Caching)
+- Docker
+- AWS ECS FARGATE
+- AWS ELASTIC LOAD BALANCER
+- Amazon Route 53
+- AWS IAM
+- AWS Systems Manager - Parameter Store
+- AWS AppConfig
+- AWS S3
